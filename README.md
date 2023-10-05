@@ -1,6 +1,6 @@
 # pawanmanmalego.github.io
 
-#Student
+# Student
 
 ### Education
 BIT
